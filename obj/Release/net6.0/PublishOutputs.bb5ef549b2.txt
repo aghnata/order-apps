@@ -1,0 +1,5 @@
+D:\Learning\Published\BasicInterfaceExample.exe
+D:\Learning\Published\BasicInterfaceExample.dll
+D:\Learning\Published\BasicInterfaceExample.deps.json
+D:\Learning\Published\BasicInterfaceExample.runtimeconfig.json
+D:\Learning\Published\BasicInterfaceExample.pdb

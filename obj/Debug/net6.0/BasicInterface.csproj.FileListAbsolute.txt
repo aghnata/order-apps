@@ -1,0 +1,15 @@
+D:\Learning\Test\bin\Debug\net6.0\BasicInterface.exe
+D:\Learning\Test\bin\Debug\net6.0\BasicInterface.deps.json
+D:\Learning\Test\bin\Debug\net6.0\BasicInterface.runtimeconfig.json
+D:\Learning\Test\bin\Debug\net6.0\BasicInterface.dll
+D:\Learning\Test\bin\Debug\net6.0\BasicInterface.pdb
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.csproj.AssemblyReference.cache
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.AssemblyInfoInputs.cache
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.AssemblyInfo.cs
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.csproj.CoreCompileInputs.cache
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.dll
+D:\Learning\Test\obj\Debug\net6.0\refint\BasicInterface.dll
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.pdb
+D:\Learning\Test\obj\Debug\net6.0\BasicInterface.genruntimeconfig.cache
+D:\Learning\Test\obj\Debug\net6.0\ref\BasicInterface.dll
